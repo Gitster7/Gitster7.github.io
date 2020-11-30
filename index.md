@@ -1,6 +1,15 @@
 
 <body>
-<h1>gitster</h1>
-<p>demo</p>
+
+<footer>
+        <!--navigation panel-->
+        <ul div class = "nav_panel">
+        <li><a href = "">ABOUT</a></li>
+        <li><a href = "">PROJECTS</a></li>
+        <li><a href = "">CHALLENGES</a></li>
+        <li><a href = "">CONTACT</a></li>
+        </ul>
+</footer>
+
 </body>
 
